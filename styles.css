@@ -223,9 +223,7 @@ p {
   }
 
   p {
-    font-size: 12px;
-    margin-bottom: 30px;
-    color: black;
+    display: none;
   }
 
   .botao-carrinho {
@@ -233,7 +231,7 @@ p {
     font-size: 18px;
     padding: 12px;
     border-radius: 10px;
-    margin-top: 100px;
+    margin-top: 300px;
   }
 
   .container-botoes {
